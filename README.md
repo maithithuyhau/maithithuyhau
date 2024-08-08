@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maithithuyhau" alt="maithithuyhau" /></a> </p>
 
 
-I am a self-studying data analyst. My short-term objective is to become a data analyst, and my long-term goal is to become a data scientist.
+I am a self-studying Data Analyst. My short-term objective is to become a data analyst, and my long-term goal is to become a data scientist.
 
 I've discovered that I am a passionate learner seeking to become an expert in data analysis. I'm naturally curious about data and enjoy the process of analyzing it. 
 
