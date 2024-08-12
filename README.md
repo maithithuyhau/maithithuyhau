@@ -25,14 +25,6 @@ Here are some ideas to get you started:
 
 I am a self-studying Data Analyst. My short-term objective is to become a data analyst, and my long-term goal is to become a data scientist.
 
-I've discovered that I am a passionate learner seeking to become an expert in data analysis. I'm naturally curious about data and enjoy the process of analyzing it. 
-
-
-Since the beginning of my adventure, I have gone a long way. I've finished a few projects in this period, which has made me feel optimistic about my future in the data science industry.
-
-
-Please click the links I've attached if you're interested. Right now, I'm seeking collaborators and learners for my open-source projects. Please get in touch with me 📧 haumai2282000@gmail.com
-
 - 🔭 I’m currently working as IT System Administrator 
 - ⚡ I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
